@@ -35,6 +35,8 @@ using namespace std;
 #include "langcodes.h++"
 #include "cmd_options.h++"
 
+#include <climits>
+
 typedef void* vob_t;
 typedef void* spu_t;
 

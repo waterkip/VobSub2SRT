@@ -6,3 +6,5 @@ test/
 /version
 /TAGS
 *DS_Store
+/CMakeCache.txt
+/CMakeFiles/
